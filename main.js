@@ -1,5 +1,5 @@
 // APIキーを設定
-const API_KEY = 'AIzaSyBQMUAntN0JBn5wycbXd9Wy2uMQOq-EqnI';
+const API_KEY = 'AIzaSyDfFr3mb1R0EhvZ8MfbvYH4jC7QWh8658A';
 
 // エンドポイントURLを設定
 const ENDPOINT_URL = 'https://www.googleapis.com/youtube/v3/search';
