@@ -1,0 +1,15 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 23 Jun 2023 17:34:47 at https://yt-download.org/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "ja, en, *" https://yt-download.org/ -O1 "D:\temp\shikro" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+17:35:17	Error: 	"Not Found" (404) at link https://yt-download.org/images/twitch.svg (from https://yt-download.org/)
+17:35:26	Error: 	"Not Found" (404) at link https://yt-download.org/GET (from https://yt-download.org/)
+17:35:44	Error: 	"Not Found" (404) at link https://yt-download.org/de/GET (from https://yt-download.org/de/about)
+17:35:44	Error: 	"Not Found" (404) at link https://yt-download.org/api/GET (from https://yt-download.org/api/widget?url=https://www.youtube.com/watch?v=zvrMzRVtj1s)
+
+HTTrack Website Copier/3.49-2 mirror complete in 57 seconds : 52 links scanned, 47 files written (3314486 bytes overall) [1127059 bytes received at 19772 bytes/sec], 3358729 bytes transferred using HTTP compression in 51 files, ratio 28%, 26.0 requests per connection
+(4 errors, 0 warnings, 0 messages)
